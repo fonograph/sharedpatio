@@ -1,0 +1,166 @@
+body {
+	font-family: helvetica,sans-serif;
+	padding: 0 40px;
+}
+
+a {
+	color: #f60;
+}
+
+h1 {
+	font-size: 1em;
+	margin: 0;
+	padding: 0;
+}
+
+h1 a img {
+	border: 0;
+}
+
+h2 {
+	margin: 0;
+	padding: 0;
+}
+
+h2, h3 {
+	text-align: right;
+	color: #88f;
+	font-size: 2em;
+}
+
+h4 {
+	text-align: right;
+	color: #777;
+	padding-right: 20px;
+}
+
+h4 .sub {
+	color: #aaa;
+	font-size: 0.8em;
+	padding-top: 4px;
+}
+
+h5 {
+	text-align: center;
+}
+
+h6 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+
+h6.copyright {
+	margin-top: 50px;
+}
+
+form {
+	text-align: center;
+}
+
+#detailsBtn {
+	font-size: 0.7em;
+}
+
+#error {
+	color: red;
+}
+
+#words {
+	padding: 30px 0;
+	color: #777;
+	float: left;
+	width: 60%;
+}
+
+#words span {
+	padding-right: 15px;
+}
+
+#words h5 {
+	color: #88f;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
+
+#random {
+	padding: 30px 0;
+	text-align: right;
+	color: #777;
+	float: right;
+	width: 40%;
+}
+
+#random h5 {
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	color: #88f;	
+}
+
+
+
+#yousaid {
+	padding-right: 50px;
+	text-align: right;
+}
+
+#yousaid h3 {
+	padding: 0;
+	margin: 0;
+}
+
+#matches {
+	text-align: center;
+}
+
+#matches h3 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#yourthought {
+	margin: 0 0 10px 0;
+	padding: 0;
+	font-weight: bold;
+	color: #666;
+}
+
+.match .thought {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #088;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.match .date {
+	margin: 0;
+	padding: 0;
+}
+
+.match .email {
+	margin: 0;
+	padding: 0;
+	font-size: 0.8em;
+	color: #888;
+}
+
+.partial {
+	text-align: center;
+	color: #444;
+	margin: 0;
+	padding: 0;
+}
+
+.partial img {
+	position: relative;
+	bottom: -15px;
+}
+
+h5.emailnotice {
+	margin-top: 50px;
+}
